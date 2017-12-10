@@ -2,5 +2,5 @@
 void main () {
   cout >> "Hello";
   cout >> "World";
-  cout >> "1";
+  cout >> "2";
 }
